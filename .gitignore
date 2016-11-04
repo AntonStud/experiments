@@ -1,0 +1,7 @@
+*.a
+*.o
+main
+Debug/
+*~
+core
+*.pro*
